@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-This is a biography of Dong Zhou (evanzd). At the time of writing, I have decided to leave my current position at Microsoft Research 
-to found a new hedge fund company with two partners in China Shanghai. Stay tuned :hugs:!
+This is a personal biography of Dong Zhou. I recently left Microsoft Research to found a new hedge fund company in China Shanghai. Stay tuned :hugs:!
 
 
 ### Education
@@ -23,13 +22,9 @@ industry partners ([ChinaAMC](https://www.chinaamc.com/fund/007994/index.shtml) 
 internal partners ([MSN Money](https://www.msn.com/en-us/money)).
 
 Before joining MSRA as a full-time employee, I also spent more than one year as an intern at the same group. 
-I created and developed [Qlib](https://github.com/microsoft/qlib) since March 2018. I designed the data storage form, 
-factor expression engine, datasets (Alpha158 & Alpha360), machine learning models (LGBM & GRU), strategy (TopkDropout) and backtest. 
-Unfortunately, when we open sourced Qlib in Sept. 2020, all history commits including mine cannot be preserved.
-So I put some old commits here to remember my work:
+I created [Qlib](https://github.com/microsoft/qlib) since March 2018 and developed Qlib versions up to 0.2.2 during this internship period. 
+In these early versions I prototyped the entire QIML workflow from data to model to backtest. (These commits are not preserved when we open sourced Qlib).
 
-<img width="326" alt="image" src="https://user-images.githubusercontent.com/10608479/146663227-3f833b43-cfcd-4dfe-9096-dcf3326d8408.png">
-<img width="523" alt="image" src="https://user-images.githubusercontent.com/10608479/146661504-e8881063-632c-42a5-b88d-83f0777d5c83.png">
 
 ### Interests
 
